@@ -43,3 +43,81 @@
     text-align: center;
     color: #005FAC;
 }
+
+/* Failure Section styles */
+
+.failure-image{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px
+}
+.failure-content{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 922px;
+    top: 1162px;
+}
+.failure-title{
+    width: 288px;
+    height: 94px;
+    left: 922px;
+    top: 1162px;
+
+    color: #151414;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.failure-description{
+    width: 416px;
+    height: 104px;
+    left: 922px;
+    top: 1280px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.failure-list{
+    width: 349px;
+    height: 162px;
+    left: 922px;
+    top: 1400px;
+    color: #444343;
+}
+
+/* Plans Section Styles */
+.plan-title{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 500px;
+    top: 1792px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.plan-elements{
+    display: flex;
+    position: absolute;
+width: 1141px;
+height: 197px;
+left: 230px;
+top: 1889px;
+}
+.plan-element{
+width: 218px;
+height: 197px;
+left: 853px;
+top: 1889px;
+}
